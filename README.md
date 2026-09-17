@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-**[View The Collective Live](YOUR_DEPLOYED_LINK_HERE)**
+**[View The Collective Live](https://vishnu-logicshift-blockshiftr2.netlify.app/)**
 
 ---
 
