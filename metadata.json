@@ -1,0 +1,6 @@
+{
+  "name": "The Collective",
+  "description": "A college committee and student crew website featuring a trading card roster, questline event progression, and sub-team domains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
